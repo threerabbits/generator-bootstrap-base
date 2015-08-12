@@ -1,0 +1,14 @@
+{
+  "name": "generator-bootstrap-base",
+  "version": "0.0.1",
+  "description": "A yeoman generator to setup a basic Bootstrap 3 project and gulpfile for rapid prototyping",
+  "author": "Pascal Ehlert <pascal@threerabbits.io>",
+  "keywords": ["yeoman-generator"],
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.17.3"
+  },
+  "license": "MIT"
+}
